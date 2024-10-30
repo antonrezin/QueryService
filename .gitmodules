@@ -1,0 +1,6 @@
+[submodule "BackEndRepo"]
+    path = BackEndRepo
+    url = https://github.com/EkaTiimi/BackEndRepo.git
+[submodule "FrontEndRepo"]
+    path = FrontEndRepo
+    url = https://github.com/EkaTiimi/FrontEndRepo.git
